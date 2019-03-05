@@ -10,13 +10,13 @@ categories: 瞎BB
 
 那首歌，从第一次听至今，已经过去了1000多天。
 
-2016
+**2016**
 
-略去几个月
+**略去几个月**
 
 我又一次延期毕业了。第一次延毕是在2016年4月，我的原先计划是在5月论文毕业，实际上那个时候我才刚刚开题。导师告诉我，如果计划年底毕业，10月23号是答辩最后的期限。5月，我在微博上便开始了近200天的毕业倒计时，而随着9月初项目的一次致命的卡壳，年底毕业又成了我口嗨历史中的一个经典案例。微博倒计时也在接近30天的时候戛然而止。讽刺的是，在10月23号那天，致命的卡壳被我解决了。
 
-2017
+**2017**
 
 就算从2016年开始，我的生活看似各种不顺利（表白失败，论文卡壳，游戏连败，屡次被鸽），我还是习惯性的在跨年的时候发出了正能量的宣言。
 
@@ -29,8 +29,8 @@ categories: 瞎BB
 
 时间穿越到2019年的2月14号，室友某总在我们室友群里面发来了一张老照片：
 
-<a href="https://radiump.github.io/myblog/assets/images/songs/2.png"  data-title="Check out the Falcon 9 from SpaceX">
-  <img src="https://radiump.github.io/myblog/assets/images/songs/2.png" title="loft的告别（摄于2017-2-14）">
+<a href="https://radiump.github.io/myblog/assets/images/songs/2.jpg"  >
+  <img src="https://radiump.github.io/myblog/assets/images/songs/2.jpg" title="loft的告别（摄于2017-2-14）">
 </a>
 
 
@@ -41,7 +41,9 @@ categories: 瞎BB
 
 2017年初的最后一个巅峰，就是3月中的论文答辩，在答辩结束的那天，我终于理不直气也壮的在微博里发出了和导师的合照以及最后一天的倒计时——虽然已经超时了很多很多天。
 
-
+<a href="https://radiump.github.io/myblog/assets/images/songs/3.png"  >
+  <img src="https://radiump.github.io/myblog/assets/images/songs/3.png" title="一个画不完的句号">
+</a>
 
 
 带着顺利毕业的喜悦，我在几天后开始了漫长的面试之旅。我以为，我这么厉害，应该很容易。Too Bad, 第一个面试的惨败，就给我自信，来了一个透心凉。
@@ -60,10 +62,12 @@ categories: 瞎BB
 
 在大家都兴致勃勃的在学校照毕业照的时候，我收到了公司的邮件，然而邮件的内容让我的心死了一半。
 
+<a href="https://radiump.github.io/myblog/assets/images/songs/4.jpg"  >
+  <img src="https://radiump.github.io/myblog/assets/images/songs/4.jpg" title="反映我在机房生活的毕业照 2017-5-10">
+</a>
 
 
 
-反映我在机房生活的毕业照 2017-5-10
 不是拒绝也不是录取，是一个项目的要求，10天内，我必须完成一个WebGL的项目。虽然我很不甘心，但是为了不扫大家的兴，我还是用我一贯的不正经风格，留下了我独特的毕业照。其实脑子里已经开始写项目了。我一周内就上交了项目，但是奇怪的是，直到下一个周一我还没有收到确认收到的邮件。不解之余，我追问了一封邮件。造化弄人，他们告诉我并没有收到，当我再发过去时，我已经有了不好的预感。
 
 虽然在那一天之后，我又陆陆续续的收到了rockstar、gameloft、respawn、playstation、insomniac等这些大厂的面试，但是当一个月后，我收到拒信的时候，失望感还是笼罩着我。一个和我联系了两个月的公司，在给了我一些希望和情感寄托之后，用一封冷冰冰的自动回复，将我两个月的等待、努力和尝试付之一炬。更加讽刺的是，下一封非自动回复的邮件，是因为我提出报销的路费没有收到而回复的。6月了，我还是没有找到工作，离回国还有60天。我把这些不满和抱怨，都变成了段子，讲给了我的邻居，在嘻嘻哈哈中，一切似乎都云淡风轻。
@@ -76,7 +80,9 @@ categories: 瞎BB
 
 也许，我的人生是剧本写好的，一定要有戏才能进行下去。编剧这次终于决定不折磨我了，MicroD的面试两天内就拿下了。北卡夏洛特，有NBA球队的地方，应该也不会Too Bad吧。我依稀记得那天我和邻居们分享好消息的情景，我终于满足了我恼人的好胜心，证明了我想证明的东西。
 
-
+<a href="https://radiump.github.io/myblog/assets/images/songs/5.png"  >
+  <img src="https://radiump.github.io/myblog/assets/images/songs/5.png" title="失败久了，就麻木了">
+</a>
 
 
 这是一张我投简历的列表（绿色代表收到面试，红色代表拒信，后来因为拒信太多，我放弃了标注红色）一共有231个不同的公司
