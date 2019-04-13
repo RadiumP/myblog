@@ -242,7 +242,7 @@ dota，cs和steam的爹，valve也是西雅图地区的。当年为了朝圣，�
   <img src="https://radiump.github.io/myblog/assets/images/sea/41.jpg" title="geek">
 </a>
 <a href="https://radiump.github.io/myblog/assets/images/sea/42.jpg"  data-lightbox="falcon9-large">
-  <img src="https://radiump.github.io/myblog/assets/images/sea/43.jpg" title="geek">
+  <img src="https://radiump.github.io/myblog/assets/images/sea/42.jpg" title="geek">
 </a>
 <a href="https://radiump.github.io/myblog/assets/images/sea/43.jpg"  data-lightbox="falcon9-large">
   <img src="https://radiump.github.io/myblog/assets/images/sea/43.jpg" title="geek">
